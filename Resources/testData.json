@@ -1,0 +1,18 @@
+{
+  "checkPostManipulations": {
+    "stringLength": 10,
+    "userId": 215518397,
+    "userName": "Ruslan Rutsky",
+    "imageWidth": 510,
+    "pathToUploadFile": "Resources\\dog.jpeg",
+    "pathToDownloadFile": "Resources\\image.jpeg",
+    "contentType": "multipart/form-data",
+    "fileType": "photo",
+    "pixelEquality": 256,
+    "bitmapWidth": 16,
+    "bitmapHeight": 16,
+    "bitmapBrightness": 0.5,
+    "timeout": 30,
+    "interval": 2
+  }
+}

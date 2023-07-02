@@ -1,0 +1,12 @@
+{
+  "apiUrl": "https://api.vk.com/method/",
+  "apiVersion": "5.131",
+  "wallPostEndpoint": "wall.post",
+  "wallEditEndpoint": "wall.edit",
+  "wallDeleteEndpoint": "wall.delete",
+  "wallCreateCommentEndpoint": "wall.createComment",
+  "wallGetLikesEndpoint": "wall.getLikes",
+  "wallGetById": "wall.getById",
+  "photosGetWallUploadServerEndpoint": "photos.getWallUploadServer",
+  "photosSaveWallPhotoEndpoint": "photos.saveWallPhoto"
+}
